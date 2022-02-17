@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Speed
+  m_Shader: {fileID: 4800000, guid: a158b48f3611d3348b103d750993227e, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EffectTexture:
+        m_Texture: {fileID: 2800000, guid: f8fcf2a31716d7643bb63f7793a9b895, type: 3}
+        m_Scale: {x: 0.5, y: 0.5}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _ColorRampOffset: 0
+    - _ColorStrength: 1
+    - _Cutoff: 0.5
+    - _DepthLevel: 1
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _EnableExternalAlpha: 0
+    - _FPOW: 5
+    - _FadeRadius: 0.5
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _Intensity: 5.06
+    - _InvFade: 1
+    - _Metallic: 0
+    - _Mode: 3
+    - _OcclusionStrength: 1
+    - _Outline: 0.005
+    - _Parallax: 0.02
+    - _Phi0: 0
+    - _Phi1: 1
+    - _R0: 0.05
+    - _ReflDistort: 0.44
+    - _RefrDistort: 0.4
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 30
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _Theta0: 0
+    - _Theta1: 1
+    - _UScale: 1
+    - _UVSec: 0
+    - _UVscale: 0.55
+    - _VScale: 1
+    - _WaveScale: 0.063
+    - _ZWrite: 0
+    - _linesamount: 0.005
+    - _normaldisplace: 0.006
+    - _rotationspeed: 0.83
+    - _sketchline: 1.89
+    m_Colors:
+    - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _HorizonColor: {r: 0.172, g: 0.4629999, b: 0.435, a: 1}
+    - _N: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RefrColor: {r: 0.34, g: 0.85, b: 0.92, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 0}
+    - _UAxis: {r: 0, g: 0, b: 0, a: 0}
+    - _UOrigin: {r: 0, g: 0, b: 0, a: 0}
+    - _VAxis: {r: 0, g: 0, b: 0, a: 0}
+    - _VOrigin: {r: 0, g: 0, b: 0, a: 0}
+    - _shadingfade: {r: 0.2720588, g: 0.2720588, b: 0.2720588, a: 0}

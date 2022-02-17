@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Alpha_All
+  m_Shader: {fileID: 4800000, guid: 6c38290fa9e621343a311966da569cd8, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Amount: 1
+    - _Brightness: 1
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _ColorStrength: 1
+    - _Cutoff: 0.5
+    - _Density: 0.755
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _Emission: 0.548
+    - _EnableExternalAlpha: 0
+    - _FPOW: 3.01
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _InvFade: 1
+    - _Levels: 15
+    - _Metallic: 0
+    - _Mode: 3
+    - _OcclusionStrength: 1
+    - _Opacity: 0
+    - _Parallax: 0.02
+    - _R0: 0.05
+    - _RGBShiftAmount: 0.17
+    - _RGBShiftAngleCos: 0.03
+    - _RGBShiftAngleSin: 0.1
+    - _Ratio: 1
+    - _Samples: 10
+    - _Scale: 71.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UVSec: 0
+    - _UseUIAlphaClip: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _Center: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Flip: {r: 1, g: 1, b: 1, a: 1}
+    - _InputGamma: {r: 1, g: 1, b: 1, a: 1}
+    - _InputMax: {r: 1, g: 1, b: 1, a: 1}
+    - _InputMin: {r: 0, g: 0, b: 0, a: 1}
+    - _OutputMax: {r: 1, g: 1, b: 1, a: 1}
+    - _OutputMin: {r: 0, g: 0, b: 0, a: 1}
+    - _RGB: {r: 0, g: 1, b: 0.213793, a: 1}
+    - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0.5808823, g: 1, b: 0.7503157, a: 0.419}
+    - _TexelSize: {r: 0, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 0.727609, g: 0.853, b: 0.7803597, a: 0.197}

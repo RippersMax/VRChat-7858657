@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraController
+  - GFLCameraController
+  - Menu
+  - Fire
+  - Console
+  - Enemy
+  - MenuOption
+  - OVRPlayer
+  - ActivateTrigger
+  - SpaceScene_Nebula
+  - SpaceScene_Planet
+  - SpaceScene_LocalStar
+  - SpaceScene_PlanetRings
+  - SpaceScene_Moon
+  - Character 1
+  - Character 2
+  - ShowCursor
+  - VRCGlobalRoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactive
+  - Player
+  - PlayerLocal
+  - Environment
+  - UiMenu
+  - Pickup
+  - PickupNoEnvironment
+  - StereoLeft
+  - StereoRight
+  - Walkthrough
+  - MirrorReflection
+  - InternalUI
+  - reserved3
+  - reserved4
+  - user0
+  - user1
+  - user2
+  - user3
+  - user4
+  - user5
+  - user6
+  - user7
+  - user8
+  - user9
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 7711475
+    locked: 0
+  - name: Popup
+    uniqueID: 3286212389
+    locked: 0
